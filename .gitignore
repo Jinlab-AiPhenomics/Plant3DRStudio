@@ -7,13 +7,4 @@
 *.ini
 *.cfg
 *.pt
-*.png
-*.jpg
-*.tiff
-*.ply
-*.db
-*.bin
-*.ini
-*.cfg
-*.pt
 .ipynb_checkpoints/
