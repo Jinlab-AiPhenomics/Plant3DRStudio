@@ -2,7 +2,7 @@
 
 
 
-![Teaser image](assets/teaser.jpg)
+![Teaser image](assets/overview.jpeg)
 
 This repo contains the official implementation for the paper "Benchmarking NeRF and 3D Gaussian Splatting Methods in Plant Phenotyping ". Our work compares the application effects of MVS-based, NeRF-based, and Gaussian-based 3D reconstruction technologies on plant phenotyping. Furthermore, we have integrated multiple algorithms into a large-scale project, enabling convenient experimentation with different algorithms simply by modifying the configuration files. In addition, we have provided datasets of soybeans and poplars (COLMAP dataset) and welcome everyone to use them.
 
