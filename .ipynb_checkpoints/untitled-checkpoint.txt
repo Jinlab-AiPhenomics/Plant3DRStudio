@@ -1,0 +1,21 @@
+# Ignore image files
+*.png
+*.jpg
+*.tiff
+
+# Ignore 3D model files
+*.ply
+
+# Ignore database files
+*.db
+
+# Ignore binary files
+*.bin
+
+# Ignore configuration files
+*.ini
+*.cfg
+
+# Ignore PyTorch model files
+*.pt
+
