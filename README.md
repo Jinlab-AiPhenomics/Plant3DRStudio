@@ -42,7 +42,7 @@ python render.py -m <path to pre-trained model> -s <path to COLMAP dataset>
 python scripts/mipnerf_eval.py -m60 <path to the MipNeRF360 dataset>
 ```
 
-
+## Result
 
 ## Acknowledgements
 
