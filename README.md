@@ -10,9 +10,14 @@ This repo contains the official implementation for the paper "Benchmarking NeRF 
 
 ## Result
 We conducted a systematic evaluation of mainstream 3D reconstruction algorithms based on Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) across three plant species: soybean,cabbage and poplar (Populus spp.). The quantitative assessment employed three established metrics: PSNR,SSIM and LPIPS.
-![Teaser image](assets/result.png)
+<p align="center">
+  <img src="assets/result.png" alt="Teaser image">
+</p>
 We further investigated the effects of image resolution and dataset size (number of input images) on 3D reconstruction quality, conducting controlled parameter analyses across both NeRF and 3DGS frameworks.
-![Teaser image](assets/compare.png)
+<p align="center">
+  <img src="assets/compare.png" alt="Teaser image">
+</p>
+
 
 ## Installation
 
